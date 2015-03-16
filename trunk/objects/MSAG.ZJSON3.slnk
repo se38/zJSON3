@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MSAG ARBGB="ZJSON3" MASTERLANG="E" RESPUSER="SE38_UWE" STEXT="Messages JSON Document Class">
+ <t100 SPRSL="E" ARBGB="ZJSON3" MSGNR="001" TEXT='&quot;&amp;1&quot;: Requested Type &quot;&amp;2&quot; Current Value &quot;&amp;3&quot;'/>
+ <t100 SPRSL="E" ARBGB="ZJSON3" MSGNR="002" TEXT="Method not supported yet -&gt; see SAP Note 1648418"/>
+ <t100 SPRSL="E" ARBGB="ZJSON3" MSGNR="003" TEXT="JSON too large? &amp;1"/>
+ <t100t SPRSL="E" ARBGB="ZJSON3" STEXT="Messages JSON Document Class"/>
+</MSAG>
