@@ -1,4 +1,4 @@
-# zJSON3
+# zJSON3 (beta!)
 The JSON Document Class Version 3
 (not 100% downward compatible with version 2, differences are explained in the wiki)
  
